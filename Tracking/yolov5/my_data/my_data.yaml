@@ -1,0 +1,4 @@
+train: my_data/images/train
+val: my_data/images/test
+nc: 2
+names: ['P-NKCs','NP-NKCs']
